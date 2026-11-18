@@ -65,3 +65,16 @@ The React frontend communicates with the backend via REST endpoints. All standar
 3. Commit your changes (`git commit -m 'Add NewFeature'`).
 4. Push to the branch (`git push origin feature/NewFeature`).
 5. Open a Pull Request.
+
+## Maintainer
+
+**Prem Suryavanshi**
+
+- GitHub: https://github.com/prem-2411
+- LinkedIn: https://linkedin.com/in/prempsuryavanshi
+
+## Attribution
+
+This repository is based on the original project by ashishpavan1819.
+Original repository: https://github.com/ashishpavan1819/OOAD_Project_Parking_Lot_System
+
